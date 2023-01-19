@@ -39,4 +39,8 @@
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=BethanyWeisberg&theme=radical&show_icons=true"/>
-</p>
+ </p>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BethanyWeisberg&layout=compact"/>
+ </p>
