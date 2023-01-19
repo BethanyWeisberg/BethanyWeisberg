@@ -7,7 +7,6 @@
   &nbsp; &nbsp;
   </p>
 - 🌱 I’m deep-diving into all things data engineering!
-
 - <p> 
   📫 How to reach me:  &nbsp; 
   <a href="https://www.linkedin.com/in/bethany-weisberg" target="_blank" rel="noopener noreferrer">
@@ -19,21 +18,8 @@
   </a>
   &nbsp; &nbsp;
 </p> 
-<!--
-**BethanyWeisberg/BethanyWeisberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-----
+----------
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=BethanyWeisberg&theme=radical&show_icons=true"/>
