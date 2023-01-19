@@ -14,7 +14,6 @@
   <img alt='dbt' title='dbt' height="25" src="https://user-images.githubusercontent.com/95442334/213349441-deef5637-d615-4c32-a46b-d705e0c1e3c6.png"> &nbsp;&nbsp;
   <img alt='Snowflake' title='Snowflake' height="25" src="https://user-images.githubusercontent.com/95442334/213349702-8e4f2897-59d8-4c8f-84fe-f720ffb4dac6.png"> &nbsp;&nbsp;
   <img alt='Python' title='Python' height="25" src="https://user-images.githubusercontent.com/95442334/213349789-14dca69c-cde5-44b0-a31a-da6a65bb94c8.png"> &nbsp;&nbsp;
-  <img alt='HTML' title='HTML' height="25" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"> &nbsp;&nbsp;
   <img alt='Looker' title='Looker' height="25" src="https://user-images.githubusercontent.com/95442334/213349893-10d1aed5-efbd-4c44-a95c-b1bb34a63b36.png"> &nbsp;&nbsp; 
   <img alt='SQL' title='SQL' height="25" src="https://user-images.githubusercontent.com/95442334/213350084-f2332fcf-8c81-48df-bb7b-be165b05dd62.png"> &nbsp;&nbsp;
   <img alt='Fivetran' title='Fivetran' height="25" src="https://user-images.githubusercontent.com/95442334/213350274-e6ad00af-6f50-4bb7-885b-1d620ac08d5e.png"> &nbsp;&nbsp;
