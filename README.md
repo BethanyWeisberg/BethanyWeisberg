@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Bethany's GitHub stats](https://github-readme-stats.vercel.app/api?username=BethanyWeisberg)](https://github.com/BethanyWeisberg/github-readme-stats)
+<p align="center"> 
+  <img src="[https://github-readme-stats.vercel.app/api?username=misskelly&theme=cobalt&show_icons=true](https://github-readme-stats.vercel.app/api?username=BethanyWeisberg&theme=synthwave&show_icons=true)"/>
+</p>
