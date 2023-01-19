@@ -36,7 +36,7 @@
     <img alt='ealt='' mail me!' src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="20px" alt="email">
   </a>
   &nbsp; &nbsp;
-  <a href="https://github.com/BethanyWeisberg"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+  <a href="https://github.com/BethanyWeisberg"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="20px" alt="mail"></a> &nbsp; &nbsp;
 </p> 
 
 ----------
