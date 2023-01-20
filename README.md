@@ -21,6 +21,19 @@
   <img alt='GIT' title='Git' height="20" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"> &nbsp;&nbsp;
   </span>
  </p>
+ 
+ - <p> 
+  📫 How to reach me:  &nbsp; 
+  <a href="https://www.linkedin.com/in/bethany-weisberg" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="20px"    alt="LinkedIn">
+  </a>
+  &nbsp; &nbsp;
+  <a href="mailto:bweisberg6@gmail.com">
+    <img alt='ealt='' mail me!' src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="20px" alt="email">
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://github.com/BethanyWeisberg"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="20px" alt="mail"></a> &nbsp; &nbsp;
+</p> 
 
 ----------
 
