@@ -31,3 +31,8 @@
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BethanyWeisberg&layout=compact"/>
  </p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/BethanyWeisberg/count.svg" />
+</p>
