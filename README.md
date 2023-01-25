@@ -37,7 +37,7 @@
 ----------
 
 <p align="center"> 
-  <img src="https://github-readme-stats-sandy-rho.vercel.app/api?username=BethanyWeisberg&theme=radical&show_icons=true"/>
+  <img src="https://github-readme-stats-sandy-rho.vercel.app/api?username=BethanyWeisberg&theme=transparent&show_icons=true"/>
  </p>
 
 <p align="center"> 
