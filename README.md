@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,5,20&height=120&section=header&text=Welcome,%20I'm%20Bethany%20😸😸😸&fontSize=40&fontAlignY=40" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=500&color=gradient&customColorList=1,4,5,20&height=120&section=header&text=Welcome,%20I'm%20Bethany%20😸😸😸&fontSize=40&fontAlignY=40" alt="header"/> 
 
 
 <!-- <h1 align="center"> Welcome, I'm Bethany 😸😸😸 </h1> -->
