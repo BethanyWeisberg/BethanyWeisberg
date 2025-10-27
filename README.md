@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+
+
 <h1 align="center"> Welcome, I'm Bethany 😸😸😸 </h1>
 
 
@@ -15,7 +18,4 @@
   </a>
   &nbsp; &nbsp;</h3>
   
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/BethanyWeisberg/count.svg" />
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
