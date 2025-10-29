@@ -24,7 +24,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=BethanyWeisberg&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-bethanyweisberg.vercel.app/api?username=BethanyWeisberg&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_rank=true&hide=contribs&show=prs_merged_percentage&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BethanyWeisberg&theme=radical&hide_border=false)
 
